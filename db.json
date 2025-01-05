@@ -1,0 +1,46 @@
+{
+  "Produtos": [
+    {
+      "id": 1,
+      "nome": "Stormtrooper",
+      "valor": 60,
+      "quantidade": 2
+    },
+    {
+      "id": 2,
+      "nome": "game boy classic",
+      "valor": 60,
+      "quantidade": 8
+    },
+    {
+      "id": "5ad2",
+      "nome": "Stormtrooper",
+      "valor": 60,
+      "quantidade": 2
+    },
+    {
+      "id": "21a3",
+      "nome": "game boy classic",
+      "valor": 60,
+      "quantidade": 8
+    },
+    {
+      "id": "f89d",
+      "nome": "game boy classic",
+      "valor": 60,
+      "quantidade": 8
+    },
+    {
+      "id": "0ef5",
+      "nome": "game boy classic",
+      "valor": 60,
+      "quantidade": 8
+    },
+    {
+      "id": "c2d3",
+      "nome": "game boy classic",
+      "valor": 60,
+      "quantidade": 8
+    }
+  ]
+}
